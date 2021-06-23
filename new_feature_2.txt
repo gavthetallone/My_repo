@@ -1,1 +1,2 @@
 This is the second new feature
+This is more text
